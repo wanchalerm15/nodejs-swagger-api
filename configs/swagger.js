@@ -11,6 +11,7 @@ const options = {
         }
     },
     apis: [
+        './swagger.yml',
         './routes/*.js'
     ]
 };
